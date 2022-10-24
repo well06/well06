@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @well06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá me chamo wellyton 👋 Atualmente dono De uma 
+loja de calçados chamada:(Shoe house) Entramos
+no mercado a pouco tempo e mesmo assim 
+temos os Melhores produtos e lançamentos pra 
+vc aproveitar amigo cliente 📢
 
-<!---
-well06/well06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✅ Melhor preço do mercado!
+
+✅ Qualidade!
+
+✅ Procedência!
+
+✅ Melhor atendimento!
+
+✅ Garantia dos nossos produtos!
+
+✅ Aceitamos todos os tipos de pagamento!
+
+Você amigo cliente procura qualidade?
+você encontra aqui na Shoe house venha fazer 
+Parte dessa família vc também 😁
